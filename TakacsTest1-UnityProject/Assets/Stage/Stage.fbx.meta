@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 081db720f16ae5e438f67649a8bac696
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: ButtTail1
+    100006: ButtTail2
+    100008: ButtTail3
+    100010: ButtTail4
+    100012: ButtTail5
+    100014: ButtTail6
+    100016: ButtTail7
+    100018: ButtTail7_end
+    100020: Chest
+    100022: Eye_L
+    100024: Eye_L_end
+    100026: Eye_R
+    100028: Eye_R_end
+    100030: FrontHair
+    100032: FrontHair1_L
+    100034: FrontHair1_L_end
+    100036: FrontHair1_R
+    100038: FrontHair1_R_end
+    100040: FrontHair2_L
+    100042: FrontHair2_L_end
+    100044: FrontHair2_R
+    100046: FrontHair2_R_end
+    100048: FrontHair_end
+    100050: Hair1_L
+    100052: Hair1_R
+    100054: Hair2_L
+    100056: Hair2_L_end
+    100058: Hair2_R
+    100060: Hair2_R_end
+    100062: Head
+    100064: Hips
+    100066: IndexFinger1_L
+    100068: IndexFinger1_R
+    100070: IndexFinger2_L
+    100072: IndexFinger2_R
+    100074: IndexFinger3_L
+    100076: IndexFinger3_L_end
+    100078: IndexFinger3_R
+    100080: IndexFinger3_R_end
+    100082: Left ankle
+    100084: Left arm
+    100086: Left elbow
+    100088: Left knee
+    100090: Left leg
+    100092: Left shoulder
+    100094: Left toe
+    100096: Left toe_end
+    100098: Left wrist
+    100100: LittleFinger1_L
+    100102: LittleFinger1_R
+    100104: LittleFinger2_L
+    100106: LittleFinger2_R
+    100108: LittleFinger3_L
+    100110: LittleFinger3_L_end
+    100112: LittleFinger3_R
+    100114: LittleFinger3_R_end
+    100116: MiddleFinger1_L
+    100118: MiddleFinger1_R
+    100120: MiddleFinger2_L
+    100122: MiddleFinger2_R
+    100124: MiddleFinger3_L
+    100126: MiddleFinger3_L_end
+    100128: MiddleFinger3_R
+    100130: MiddleFinger3_R_end
+    100132: Neck
+    100134: Plane
+    100136: Plane.001
+    100138: Plane.002
+    100140: Right ankle
+    100142: Right arm
+    100144: Right elbow
+    100146: Right knee
+    100148: Right leg
+    100150: Right shoulder
+    100152: Right toe
+    100154: Right toe_end
+    100156: Right wrist
+    100158: RingFinger1_L
+    100160: RingFinger1_R
+    100162: RingFinger2_L
+    100164: RingFinger2_R
+    100166: RingFinger3_L
+    100168: RingFinger3_L_end
+    100170: RingFinger3_R
+    100172: RingFinger3_R_end
+    100174: Seats
+    100176: SideTail1
+    100178: SideTail2
+    100180: SideTail2_end
+    100182: Spine
+    100184: //RootNode
+    100186: StandingEars1_L
+    100188: StandingEars1_R
+    100190: StandingEars2_L
+    100192: StandingEars2_R
+    100194: StandingEars3_L
+    100196: StandingEars3_L_end
+    100198: StandingEars3_R
+    100200: StandingEars3_R_end
+    100202: Thumb1_L
+    100204: Thumb1_R
+    100206: Thumb2_L
+    100208: Thumb2_R
+    100210: Thumb3_L
+    100212: Thumb3_L_end
+    100214: Thumb3_R
+    100216: Thumb3_R_end
+    100218: Plane.003
+    100220: Plane.004
+    100222: Cylinder
+    100224: Plane.005
+    100226: GPVRP_render_2020-07-10_10_09_20_941
+    400000: Armature
+    400002: Body
+    400004: ButtTail1
+    400006: ButtTail2
+    400008: ButtTail3
+    400010: ButtTail4
+    400012: ButtTail5
+    400014: ButtTail6
+    400016: ButtTail7
+    400018: ButtTail7_end
+    400020: Chest
+    400022: Eye_L
+    400024: Eye_L_end
+    400026: Eye_R
+    400028: Eye_R_end
+    400030: FrontHair
+    400032: FrontHair1_L
+    400034: FrontHair1_L_end
+    400036: FrontHair1_R
+    400038: FrontHair1_R_end
+    400040: FrontHair2_L
+    400042: FrontHair2_L_end
+    400044: FrontHair2_R
+    400046: FrontHair2_R_end
+    400048: FrontHair_end
+    400050: Hair1_L
+    400052: Hair1_R
+    400054: Hair2_L
+    400056: Hair2_L_end
+    400058: Hair2_R
+    400060: Hair2_R_end
+    400062: Head
+    400064: Hips
+    400066: IndexFinger1_L
+    400068: IndexFinger1_R
+    400070: IndexFinger2_L
+    400072: IndexFinger2_R
+    400074: IndexFinger3_L
+    400076: IndexFinger3_L_end
+    400078: IndexFinger3_R
+    400080: IndexFinger3_R_end
+    400082: Left ankle
+    400084: Left arm
+    400086: Left elbow
+    400088: Left knee
+    400090: Left leg
+    400092: Left shoulder
+    400094: Left toe
+    400096: Left toe_end
+    400098: Left wrist
+    400100: LittleFinger1_L
+    400102: LittleFinger1_R
+    400104: LittleFinger2_L
+    400106: LittleFinger2_R
+    400108: LittleFinger3_L
+    400110: LittleFinger3_L_end
+    400112: LittleFinger3_R
+    400114: LittleFinger3_R_end
+    400116: MiddleFinger1_L
+    400118: MiddleFinger1_R
+    400120: MiddleFinger2_L
+    400122: MiddleFinger2_R
+    400124: MiddleFinger3_L
+    400126: MiddleFinger3_L_end
+    400128: MiddleFinger3_R
+    400130: MiddleFinger3_R_end
+    400132: Neck
+    400134: Plane
+    400136: Plane.001
+    400138: Plane.002
+    400140: Right ankle
+    400142: Right arm
+    400144: Right elbow
+    400146: Right knee
+    400148: Right leg
+    400150: Right shoulder
+    400152: Right toe
+    400154: Right toe_end
+    400156: Right wrist
+    400158: RingFinger1_L
+    400160: RingFinger1_R
+    400162: RingFinger2_L
+    400164: RingFinger2_R
+    400166: RingFinger3_L
+    400168: RingFinger3_L_end
+    400170: RingFinger3_R
+    400172: RingFinger3_R_end
+    400174: Seats
+    400176: SideTail1
+    400178: SideTail2
+    400180: SideTail2_end
+    400182: Spine
+    400184: //RootNode
+    400186: StandingEars1_L
+    400188: StandingEars1_R
+    400190: StandingEars2_L
+    400192: StandingEars2_R
+    400194: StandingEars3_L
+    400196: StandingEars3_L_end
+    400198: StandingEars3_R
+    400200: StandingEars3_R_end
+    400202: Thumb1_L
+    400204: Thumb1_R
+    400206: Thumb2_L
+    400208: Thumb2_R
+    400210: Thumb3_L
+    400212: Thumb3_L_end
+    400214: Thumb3_R
+    400216: Thumb3_R_end
+    400218: Plane.003
+    400220: Plane.004
+    400222: Cylinder
+    400224: Plane.005
+    400226: GPVRP_render_2020-07-10_10_09_20_941
+    2100000: Material.001
+    2100002: Material.002
+    2100004: "\u30D1\u30F3\u30C4"
+    2100006: "\u3057\u3044\u305F\u3051"
+    2100008: "\u9F3B"
+    2100010: "\u8033"
+    2100012: "\u9854"
+    2100014: "\u767D\u76EE"
+    2100016: "\u6750\u8CEA0"
+    2100018: Seats
+    2100020: No Name
+    2100022: Black
+    2100024: Ruber
+    2100026: Material.003
+    2100028: Wall
+    2100030: Planks
+    2100032: Stage floor
+    2100034: Wall 3
+    2100036: Wall 2
+    2100038: Ridge
+    2100040: Panel
+    2100042: GPVRP_render_2020-07-10_10_09_20_941
+    2100044: Concret_
+    2100046: Material.004
+    2100048: Metal
+    2300000: Plane
+    2300002: Plane.001
+    2300004: Plane.002
+    2300006: Seats
+    2300008: Plane.003
+    2300010: Plane.004
+    2300012: Cylinder
+    2300014: Plane.005
+    2300016: GPVRP_render_2020-07-10_10_09_20_941
+    3300000: Plane
+    3300002: Plane.001
+    3300004: Plane.002
+    3300006: Seats
+    3300008: Plane.003
+    3300010: Plane.004
+    3300012: Cylinder
+    3300014: Plane.005
+    3300016: GPVRP_render_2020-07-10_10_09_20_941
+    4300000: Plane
+    4300002: Plane.001
+    4300004: Plane.002
+    4300006: Body
+    4300008: Seats
+    4300010: Plane.003
+    4300012: Plane.004
+    4300014: Plane.005
+    4300016: Cylinder
+    4300018: GPVRP_render_2020-07-10_10_09_20_941
+    9500000: //RootNode
+    13700000: Body
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 408ed02b283bf9742be53b7684f86d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f04cf8188d2a89f4f8f10f20837b1087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c1cb34a2f2305344cbf75706a34825a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: afb65d48861f52a49b0394c3d1ef3e23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 10ac828c110ce354da9399830f7f520d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planks
+    second: {fileID: 2100000, guid: 6173c86514b63b641a4a8ec1e98438ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruber
+    second: {fileID: 2100000, guid: 8c9a32e92f8f1ca45b71a30f54544c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seats
+    second: {fileID: 2100000, guid: 89aad504ae4bf5b48bef7ccd272ab04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: f5eaa6ecb39f79b4b87e29b7d6ec7ae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u3057\u3044\u305F\u3051"
+    second: {fileID: 2100000, guid: 2ca98548466a2854087f26efe911302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30D1\u30F3\u30C4"
+    second: {fileID: 2100000, guid: 4b35da31d2ba5c24b931fb58c19bf0e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA0"
+    second: {fileID: 2100000, guid: 28ed5e28cab000447b9d9a837d6cb086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u767D\u76EE"
+    second: {fileID: 2100000, guid: 256c5012729d8c643b80cf46002860e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u8033"
+    second: {fileID: 2100000, guid: d5d63a267d1a235459bd41c5a7752435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9854"
+    second: {fileID: 2100000, guid: 08fc48e215daea54797445f5c4da7012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9F3B"
+    second: {fileID: 2100000, guid: 8a3b2d975391939489be302dc7095504, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
